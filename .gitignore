@@ -193,3 +193,6 @@ FakesAssemblies/
 
 # Nuget
 *.nuspec
+
+#DotNetCore
+project.lock.json
